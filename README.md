@@ -92,7 +92,7 @@ Benchmarking compares ten classification algorithms under identical preprocessin
 This project developed a robust, production-ready churn prediction model with CatBoost as the best performer after benchmarking, imbalance handling (SMOTE-ENN), and tuning.
 Highlights:
 
-    - **High Predictive Accuracy:**  
+    - **Strong Performance Across Metrics:**  
       CatBoost achieved strong test metrics prioritizing recall and balanced precision, including F2-Score 0.8987, Recall 0.9490, Precision 0.7413, F1-Score 0.8324, PR-AUC 0.8955, ROC-AUC 0.9765, and Accuracy 0.9379, outperforming alternatives.
     
     - **Ready for Deployment:**  
@@ -197,4 +197,10 @@ Interactive data exploration and churn pattern visualization.
 - **Tableau:** Data exploration, dashboarding, and visual analytics.  
 - **Streamlit:** Web app framework for deploying interactive machine learning models.
 
+---  
 
+## CONTRIBUTORS  
+**Group Alpha – JCDSOL-018, Purwadhika**  
+- Zulfi Nadhia Cahyani (https://github.com/znadhiac)  
+- Liswatun Naimah (https://github.com/Liswatunnaimah)  
+- Aldino Dian Mandala Putra (https://github.com/aldino9112)  
